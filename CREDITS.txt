@@ -1,0 +1,47 @@
+
+THIS PROJECT WAS MADE WITH THE FEBUILDER ENGINE.
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+SPRITES MADE BY OTHER PEOPLE ALL PICKED UP FROM FIRE EMBLEM REPOSITORY WEBSITE WITH THE CORRESPONDING CREDITS:
+
+		https://feuniverse.us/t/fire-emblem-resource-repository-battle-animations-portraits-music-etc/3326/490
+
+	- Promoted Edwin Battle Animation / Trickster Battle Animation made by leolink
+	- Prepromoted + Promoted Mercia Battle Animations / Celicas Battle Animations made by Jeorge_Reds
+	- Autumn Battle Animation / Werewolf Battle Animation made by ZoramineFae
+	- Lomin'Vaxx Battle Animation / Dragon Battle Animation made by L95
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+All other sprites, like Edwins and Mercias minisprites, all character portraits besides the npc ones, etc... have been made by Darrelf.
+
+
+
+MUSIC FROM OTHER FIRE EMBLEM GAMES PICKED UP FROM THE FIRE EMBLEM MUSIC REPOSITORY WEBSITE:
+
+		https://github.com/Klokinator/FE-Repo-Music/tree/main/Game%20OSTs/Fire%20Emblem%20Series
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+SPECIAL THANKS:
+
+Thanks to my only irl friend who gave Fire Emblem Dragon's Courage a chance, even if they didn't know anything about FE.
+They tested all chapters while on VC with me, commenting each dialog, helping me fix bugs, and being a strong support
+through all the game development, and thanks to that, him developing a liking to Fire Emblem and opening up to play more,
+thank you my friend.
+
+----------------------------------------------------------------------------------------------------------------
+
+Thanks to the people of a very special Fire Emblem based server, people kind enough to give the game a try, people kind
+enough to encourage me, to lift me up when I was struggling, people so awesome that I don't think this project could have
+been a thing without them. Thanks, to all of you, for being there for me, even if this is only a silly project, even if
+this will never be a real masterpiece, thank you, for everything.
+
+----------------------------------------------------------------------------------------------------------------
